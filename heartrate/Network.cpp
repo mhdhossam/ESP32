@@ -4,7 +4,7 @@
 #define WIFI_SSID "MHD"
 #define WIFI_PASSWORD "12345678"
 
-#define API_KEY "AIzaSyCS2cS4XDvZEZhPhFZuhKwXlpjXtjP6mqc"
+#define API_KEY ""
 #define FIREBASE_PROJECT_ID "esp32-47534"
 #define USER_EMAIL "mhd123@gmail.com"
 #define USER_PASSWORD "123456"
